@@ -1,2 +1,2 @@
 # Rick and Morty Memory Game
-### by @grc
+### by @graynnier
